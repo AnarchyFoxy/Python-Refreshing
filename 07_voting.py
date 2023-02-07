@@ -5,3 +5,4 @@ if age >= 18:
 else:
     print("Oh, you cant legally vote, you are to young...")
     print("But you can become an Anarchist!")
+    print("Of course, Anarchocapitalist c:")
